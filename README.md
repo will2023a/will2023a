@@ -8,7 +8,7 @@ Atualmente trabalho como analista de dados, tenho conhecimento em power bi, SQL 
 
 Estou em constante aprendizado ⚡
 
-Atualmente estou aprendendo Programção web, HTML, CSS e JS.
+Desenvolvedor Full Stack, HTML, CSS, JS, PHP, LARAVEL e SYMFONY.
 
 Ja possuo alguns trabalhos no meu portifolio, caso queiram dar uma olhada 😄
 
