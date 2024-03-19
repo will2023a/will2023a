@@ -1,6 +1,6 @@
 Olá!
 
-Me chamo William Oliveira, sou estudande de analise e desenvolvimento em sistemas  
+Me chamo William Oliveira, sou estudande de analise e desenvolvimento de sistemas  
 ![image](https://github.com/will2023a/will2023a/assets/132156519/166210bb-4236-4e8d-8be2-4ca13bc6cc68)
 
 
